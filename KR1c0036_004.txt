@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩說解頤
-#+DATE: 2015-09-23 09:36:52
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:05:42.781338
+#+PROPERTY: ID KR1c0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 正釋卷二
 <pb:KR1c0036_WYG_004-1a>¶
 欽定四庫全書¶
 　詩說解頥正釋卷二　　　　明　季本　撰¶
@@ -380,4 +382,3 @@
 　其不以多殺為能而美文王仁之所及也¶
 　　　騶虞二章章三句¶
 　詩説解頥正釋卷二¶
-

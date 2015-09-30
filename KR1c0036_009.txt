@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩說解頤
-#+DATE: 2015-09-23 09:36:52
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:05:42.855876
+#+PROPERTY: ID KR1c0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 正釋卷七
 <pb:KR1c0036_WYG_009-1a>¶
 欽定四庫全書¶
 　詩說解頥正釋卷七　　　　明　季本　撰¶
@@ -488,4 +490,3 @@
 　　　　蓋舉重而言固自有次第也詩可以觀豈不¶
 　　　　信哉¶
 　詩説解頤正釋卷七¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩說解頤
-#+DATE: 2015-09-23 09:36:52
-#+PROPERTY: JUAN 31
+#+DATE: 2015-08-24 22:05:43.314256
+#+PROPERTY: ID KR1c0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 正釋卷二十九
 <pb:KR1c0036_WYG_031-1a>¶
 欽定四庫全書¶
 　詩説解頥正釋卷二十九　　明　季本　撰¶
@@ -398,4 +400,3 @@
 　¶
 　¶
 　詩説解頤正釋卷二十九¶
-

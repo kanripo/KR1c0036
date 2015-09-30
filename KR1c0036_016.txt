@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩說解頤
-#+DATE: 2015-09-23 09:36:52
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:05:42.982519
+#+PROPERTY: ID KR1c0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 正釋卷十四
 <pb:KR1c0036_WYG_016-1a>¶
 欽定四庫全書¶
 　詩說解頥正釋卷十四　　　明　季本　撰¶
@@ -398,4 +400,3 @@
 　　　狼䟦三章章四句¶
 　¶
 　詩說解頥正釋卷十四¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩說解頤
-#+DATE: 2015-09-23 09:36:52
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:05:43.461536
+#+PROPERTY: ID KR1c0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 字義卷七
 <pb:KR1c0036_WYG_039-1a>¶
 欽定四庫全書¶
 　詩説解頥字義卷七　　　明　季本　撰¶
@@ -578,4 +580,3 @@
 　¶
 　¶
 　詩說解頥字義卷七¶
-

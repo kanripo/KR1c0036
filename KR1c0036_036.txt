@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩說解頤
-#+DATE: 2015-09-23 09:36:52
-#+PROPERTY: JUAN 36
+#+DATE: 2015-08-24 22:05:43.410009
+#+PROPERTY: ID KR1c0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 字義卷四
 <pb:KR1c0036_WYG_036-1a>¶
 欽定四庫全書卷¶
 　詩説觧頥字義卷四　　　　明　季本　撰¶
@@ -308,4 +310,3 @@
 　義以几為人所馮以為安也¶
 　¶
 　詩說觧頥字義卷四¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩說解頤
-#+DATE: 2015-09-23 09:36:52
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:05:42.910505
+#+PROPERTY: ID KR1c0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 正釋卷十
 <pb:KR1c0036_WYG_012-1a>¶
 欽定四庫全書¶
 　詩説觧頥正釋卷十　　　　明　季本　撰¶
@@ -272,4 +274,3 @@
 　　　采苓三章章八句¶
 　¶
 　詩說解頥正釋卷十¶
-
